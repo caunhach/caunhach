@@ -4,6 +4,10 @@
 
 Hi! I'm Chayapon Aunhachoke, with a Bachelor's degree in Mechanical Engineering from Chulalongkorn University and currently studying at 42 Bangkok. I'm a young programmer who is passionate about coding and always learning new technologies.
 
+- 🔭 I’m currently working on 42 Bangkok
+- 🌱 I’m currently learning: Java and related technologies
+- 📫 How to reach me: Tel: +66 92 262 8635 IG: joy_bon777
+
 <br>
 
 ### Language
