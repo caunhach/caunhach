@@ -22,7 +22,7 @@ Hi! I'm Chayapon Aunhachoke, with a Bachelor's degree in Mechanical Engineering 
 <img src="https://img.shields.io/badge/-Git-FC6D27?style=for-the-badge&logo=git&logoColor=FC6D27&labelColor=282828">
 <img src="https://img.shields.io/badge/-Github-FFFFFF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=282828">
 <img src="https://img.shields.io/badge/-Gitlab-FC6D27?style=for-the-badge&logo=gitlab&logoColor=FC6D27&labelColor=282828">
-<img src="https://img.shields.io/badge/-Java-FC6D27?style=for-the-badge&logo>
+<img src="https://img.shields.io/badge/-Java-FC6D27?style=for-the-badge&logo=FC6D27&labelColor=282828>
 </div>
 
-### list of contents
+### List of contents
