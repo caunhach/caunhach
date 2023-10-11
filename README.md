@@ -24,4 +24,4 @@ Hi! I'm Chayapon Aunhachoke, with a Bachelor's degree in Mechanical Engineering 
 </div>
 
 ### List of contents
-[Libft](https://github.com/caunhach/42cursus_Libft)
+- [Libft](https://github.com/caunhach/42cursus_Libft)
