@@ -3,9 +3,7 @@
 </h1>
 
 Hi! I'm Chayapon Aunhachoke, with a Bachelor's degree in Mechanical Engineering from Chulalongkorn University and currently studying at 42 Bangkok. I'm a young programmer who is passionate about coding and always learning new technologies.
-
 <br>
-
 ### Language
 <div>	
 <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
