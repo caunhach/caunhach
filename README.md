@@ -24,6 +24,7 @@ Hi! I'm Chayapon Aunhachoke, with a Bachelor's degree in Mechanical Engineering 
 </div>
 
 ### List of contents
-- [42Bangkok](https://github.com/caunhach/42Bangkok) 
+- [42Bangkok](https://github.com/caunhach/42Bangkok) [![C](https://img.shields.io/badge/Language-C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+
 
 - [Java_Project](https://github.com/caunhach/Java_Project)
