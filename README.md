@@ -11,7 +11,7 @@ Hi! I'm Chayapon Aunhachoke, with a Bachelor's degree in Mechanical Engineering 
 <img src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&logo=JavaScript&logoColor=F0DB4F&labelColor=282828">
 <img src="https://img.shields.io/badge/-C lang-FFA500?style=for-the-badge&logo=c&logoColor=FFA500&labelColor=282828">
 <img src="https://img.shields.io/badge/-C++-FFA500?style=for-the-badge&logo=cplusplus&logoColor=FFA500&labelColor=282828">
-<img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=FFA500&labelColor=282828">
 </div>
 
 ### Technology
