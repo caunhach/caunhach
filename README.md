@@ -4,10 +4,6 @@
 
 Hi! I'm Chayapon Aunhachoke, with a Bachelor's degree in Mechanical Engineering from Chulalongkorn University and currently studying at 42 Bangkok. I'm a young programmer who is passionate about coding and always learning new technologies.
 
-- 🔭 I’m currently working on 42 Bangkok
-- 🌱 I’m currently learning: Java and related technologies
-- 📫 How to reach me: Tel: +66 92 262 8635 IG: joy_bon777
-
 <br>
 
 ### Language
@@ -28,17 +24,5 @@ Hi! I'm Chayapon Aunhachoke, with a Bachelor's degree in Mechanical Engineering 
 <img src="https://img.shields.io/badge/-Gitlab-FC6D27?style=for-the-badge&logo=gitlab&logoColor=FC6D27&labelColor=282828">
   [![Spring](https://img.shields.io/badge/Spring-Framework-brightgreen.svg)](https://spring.io/)
 </div>
-<!--
-**caunhach/caunhach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### list of contents
