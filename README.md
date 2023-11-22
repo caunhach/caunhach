@@ -3,7 +3,7 @@
 </h1>
 
 Hi! I'm Chayapon Aunhachoke, with a Bachelor's degree in Mechanical Engineering from Chulalongkorn University and currently studying at 42 Bangkok. I'm a young programmer who is passionate about coding and always learning new technologies.<br>
-<br>for other skills excluding coding, I have strong calculation ability especially math and physics. My achievment of these such as full 100 score in physics admission, honorable mention of Thailand Physics Olympiad (TPhO), POSN Math.
+<br>for other skills excluding coding, I have strong calculation ability especially math and physics. My achievment of these such as full 100 score in thailand physics admission, honorable mention of Thailand Physics Olympiad (TPhO), POSN Math.
 <br>
 ### Language
 <div>	
